@@ -19,5 +19,8 @@
   "author": "Jason Rhodes",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "5cb1db60087437c5e4664dcaf069e2d3664dac37"
+  "gitHead": "5cb1db60087437c5e4664dcaf069e2d3664dac37",
+  "dependencies": {
+    "gitty": "~1.2.4"
+  }
 }
