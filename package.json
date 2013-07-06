@@ -1,0 +1,23 @@
+{
+  "name": "barnum",
+  "version": "0.0.0",
+  "description": "An experiment in git-powered document collaboration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasonrhodes/barnum.git"
+  },
+  "keywords": [
+    "git",
+    "documents",
+    "collaboration",
+    "versioning"
+  ],
+  "author": "Jason Rhodes",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "5cb1db60087437c5e4664dcaf069e2d3664dac37"
+}
